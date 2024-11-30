@@ -1,2 +1,5 @@
 [theme]
 base="dark"
+
+[browser]
+serverAddress = "0.0.0.0"
