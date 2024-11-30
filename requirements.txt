@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+spotipy  
+requests
+streamlit_mic_recorder
+matplotlib
+scikit-learn
